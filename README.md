@@ -1,6 +1,6 @@
- - Given an array with 'N' elements that can occur 'N' times
- - Find the Number with Maximum Occurance
-  > - If Maximum occurance is `x` and that is true for more than one elements, return the smallest one
+ - Given an array with 'X' elements that can occur 'Y' times
+ - Return the element with Maximum Occurance
+  > - If Maximum occurance is `N` and that is true for more than one elements, return the smallest one
 
 ---
 ### Examples:
@@ -12,4 +12,4 @@
  > Output: 4
 
 ### Run:
-`node find_max_occuring_value.js`
+`node FindMaxOccuringElement.js`
